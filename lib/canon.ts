@@ -28,7 +28,7 @@ export const lockedEight: LockedMate[] = [
     trade: "metal",
     homeTrade: "metal",
     homeLine: "If it's shiny, it's not lost. It's stored.",
-    portrait: "/crew/matt.jpg",
+    portrait: "/crew/Matt-the-Magpie.jpg",
   },
   {
     slug: "cookie",
@@ -37,7 +37,7 @@ export const lockedEight: LockedMate[] = [
     trade: "painter",
     homeTrade: "colour",
     homeLine: "Starts at five. Laughs the suburb awake.",
-    portrait: "/crew/cookie.jpg",
+    portrait: "/crew/Cookie-the-Kookaburra.jpg",
   },
   {
     slug: "dazza",
@@ -46,7 +46,7 @@ export const lockedEight: LockedMate[] = [
     trade: "demo",
     homeTrade: "demo",
     homeLine: "Ten percent plan. Ninety percent spin.",
-    portrait: "/crew/dazza.jpg",
+    portrait: "/crew/Dazza-the-Tassie-Devil.jpg",
   },
   {
     slug: "eddie",
@@ -55,7 +55,7 @@ export const lockedEight: LockedMate[] = [
     trade: "electrician",
     homeTrade: "sparky",
     homeLine: "Runs the jobs. Feathers still a bit 240.",
-    portrait: "/crew/eddie.jpg",
+    portrait: "/crew/Eddie-the-Electrician.jpg",
   },
   {
     slug: "quinny",
@@ -64,7 +64,7 @@ export const lockedEight: LockedMate[] = [
     trade: "apprentice",
     homeTrade: "apprentice",
     homeLine: "Selfie first. The job's in the background.",
-    portrait: "/crew/quinny.jpg",
+    portrait: "/crew/Quinny-the-Quokka.jpg",
   },
   {
     slug: "sammy",
@@ -73,7 +73,7 @@ export const lockedEight: LockedMate[] = [
     trade: "inspector",
     homeTrade: "inspector",
     homeLine: "Silent. Already behind you.",
-    portrait: "/crew/sammy.jpg",
+    portrait: "/crew/Sammy-the-Site-Inspector.jpg",
   },
   {
     slug: "pauly",
@@ -82,7 +82,7 @@ export const lockedEight: LockedMate[] = [
     trade: "plasterer",
     homeTrade: "plasterer",
     homeLine: "Hangs around until it's dry.",
-    portrait: "/crew/pauly.jpg",
+    portrait: "/crew/Pauly-the-Plasterer.jpg",
   },
   {
     slug: "craig",
@@ -91,7 +91,7 @@ export const lockedEight: LockedMate[] = [
     trade: "crane",
     homeTrade: "crane",
     homeLine: "Territorial about the cabin. Snappy service.",
-    portrait: "/crew/craig.jpg",
+    portrait: "/crew/Craig-the-Croc.jpg",
   },
 ];
 
