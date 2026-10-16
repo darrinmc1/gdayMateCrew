@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@theme {
+  --color-hivis: #ffc72c;
+  --color-hivis-dark: #e0a800;
+  --color-site: #16130f;
+  --color-dust: #f6f1e7;
+  --color-rust: #b5471d;
+  --font-display: "Arial Black", "Helvetica Neue", Impact, system-ui, sans-serif;
+}
+html { scroll-behavior: smooth; }
+body { background: var(--color-dust); color: var(--color-site); }
+:focus-visible { outline: 3px solid var(--color-rust); outline-offset: 3px; border-radius: 4px; }
+.tape { background-image: repeating-linear-gradient(-45deg, var(--color-hivis) 0 18px, var(--color-site) 18px 36px); }
